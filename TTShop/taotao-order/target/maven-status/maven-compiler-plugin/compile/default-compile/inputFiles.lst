@@ -1,0 +1,7 @@
+D:\workSpaceForMars\taotao-order\src\main\java\com\taotao\order\pojo\Order.java
+D:\workSpaceForMars\taotao-order\src\main\java\com\taotao\order\dao\impl\JedisClientSingle.java
+D:\workSpaceForMars\taotao-order\src\main\java\com\taotao\order\dao\JedisClient.java
+D:\workSpaceForMars\taotao-order\src\main\java\com\taotao\order\service\OrderService.java
+D:\workSpaceForMars\taotao-order\src\main\java\com\taotao\order\dao\impl\JedisClientCluster.java
+D:\workSpaceForMars\taotao-order\src\main\java\com\taotao\order\service\impl\OrderServiceImpl.java
+D:\workSpaceForMars\taotao-order\src\main\java\com\taotao\order\controller\OrderController.java

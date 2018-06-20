@@ -1,0 +1,10 @@
+com\taotao\pojo\IDUtils.class
+com\taotao\utils\CookieUtils.class
+com\taotao\utils\JsonUtils.class
+com\taotao\utils\PictureResult.class
+com\taotao\utils\HttpClientUtil.class
+com\taotao\pojo\TaotaoResult.class
+com\taotao\utils\FastDFSClient.class
+com\taotao\pojo\PageBean.class
+com\taotao\utils\ExceptionUtilsMsg.class
+com\taotao\pojo\EUITreeMsg.class
